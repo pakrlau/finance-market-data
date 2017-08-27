@@ -1,0 +1,1 @@
+time,open,close,low,high,shares_traded,turnover
